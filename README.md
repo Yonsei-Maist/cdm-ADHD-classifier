@@ -1,6 +1,6 @@
 # cdm-ADHD-classifier
 
-Text classifier based on BERT, Tensorflow and ADHD data
+Text classifier based on BERT, Tensorflow and ERD of ADHD
 
 ## About the project
 
@@ -18,6 +18,15 @@ Text classifier based on BERT, Tensorflow and ADHD data
 git clone https://github.com/Yonsei-Maist/cdm-ADHD-classifier.git
 pip install requirement.txt
 ```
+
+## Data
+
+### trained model data
+- Download from [One Drive](https://yonsei-my.sharepoint.com/:f:/g/personal/arknell_o365_yonsei_ac_kr/Ekh3uqSbnXVEuJ8iN5rtTKsBsG--QsI_bHHXGLP1_CxCTA?e=EAn0t5)
+
+###
+
+The ERD of ADHD is closed data
 
 ## Run
 ```
